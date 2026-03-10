@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "801405919481",
+    "project_id": "appcontable-57113",
+    "storage_bucket": "appcontable-57113.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801405919481:android:bf4fe506641762054a8228",
+        "android_client_info": {
+          "package_name": "com.example.appcontable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801405919481-asrfeg1k1ihluvr4ln8q7in6leasbssg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appcontable",
+            "certificate_hash": "d258a3158d33e11a6be972e8fcc5bc189276b31f"
+          }
+        },
+        {
+          "client_id": "801405919481-jlf7dsu3h6c84kgp6kn8m5ol3447prfo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appcontable",
+            "certificate_hash": "eac0316bb04de8e67987167a217804999bbf766f"
+          }
+        },
+        {
+          "client_id": "801405919481-ipa0rfvv4k5bj24fatoe2s5mhdlumdfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCutdFQgynCdF9CFBgIuG1Vg-pIv_K2_g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801405919481-ipa0rfvv4k5bj24fatoe2s5mhdlumdfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

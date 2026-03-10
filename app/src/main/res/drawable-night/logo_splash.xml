@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Incluso en modo noche, usamos el fondo morado exacto -->
+    <item android:drawable="@color/splash_purple" />
+
+    <!-- Logo original centrado -->
+    <item
+        android:drawable="@drawable/logo"
+        android:gravity="center"
+        android:top="48dp"
+        android:bottom="48dp"
+        android:left="48dp"
+        android:right="48dp" />
+</layer-list>
